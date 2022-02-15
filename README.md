@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ledugus
+- 👀 I’m interested in IT, programmation and mathematical concepts behind it
+- 🌱 I’m currently learning python.
